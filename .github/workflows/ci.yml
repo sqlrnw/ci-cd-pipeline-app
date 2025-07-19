@@ -27,5 +27,5 @@ jobs:
       with:
         context: .
         push: true
-        tags: sqlrnw/ci-cd-pipeline-app:latest
+        tags: mohamedragap13/ci-cd-pipeline-app:latest
 
